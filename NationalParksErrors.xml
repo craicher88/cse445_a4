@@ -118,7 +118,7 @@
 		<Name>Big Bend National Park</Name>
 		<Phone>432-477-2251</Phone>
 		<Phone>432-477-1158</Phone>
-		<Address NearestAirport="Midland International Air & Space Port">
+		<Address NearestAirport="Midland International Air &amp; Space Port">
 			<Number>1</Number>
 			<Street>Panther Junction</Street>
 			<City>Big Bend National Park</City>
