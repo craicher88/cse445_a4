@@ -47,7 +47,7 @@
 		</Address>
 	</NationalPark>
 	<NationalPark Rating="4.0">
-		<Name>Rainier National Park</Name>
+		<Name>Mount Rainier National Park</Name>
 		<Phone>360-569-2211</Phone>
 		<Address NearestAirport="Seattle-Tacoma International Airport">
 			<Number>39000</Number>
